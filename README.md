@@ -8,6 +8,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
+The project was to explore US bikeshare data and investigate a relational database.
 
 ### Files used
 Include the files used
